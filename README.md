@@ -9,19 +9,21 @@ These improvements help ensure secure communication, verify data integrity, and 
 
 ## System Architecture
 
-Client Browser  
-      │  
-      ▼  
-HTTPS Secure Connection (SSL) 
-      │  
-      ▼  
-Java Web Application (Spring Boot Server)  
-      │  
-      ▼  
-SHA-256 Hash Generation  
-      │  
-      ▼  
+```
+Client Browser
+      │
+      ▼
+HTTPS Secure Connection (SSL)
+      │
+      ▼
+Java Web Application (Spring Boot Server)
+      │
+      ▼
+SHA-256 Hash Generation
+      │
+      ▼
 Dependency Vulnerability Scan (OWASP Dependency-Check)
+```
 
 ## Technologies Used
 - Java
