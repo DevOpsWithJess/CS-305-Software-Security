@@ -8,7 +8,7 @@ This project demonstrates several core software security practices implemented i
 These improvements help ensure secure communication, verify data integrity, and identify potential security risks within third-party libraries.
 
 ## System Architecture
-...
+
 Client Browser  
       │  
       ▼  
@@ -22,7 +22,7 @@ SHA-256 Hash Generation
       │  
       ▼  
 Dependency Vulnerability Scan (OWASP Dependency-Check)
-...
+
 ## Technologies Used
 - Java
 - HTTPS / SSL
