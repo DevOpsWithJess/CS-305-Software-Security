@@ -16,13 +16,11 @@ Client Browser
 HTTPS Secure Connection (SSL)
       │
       ▼
-Java Web Application (Spring Boot Server)
+Java Web Application
       │
-      ▼
-SHA-256 Hash Generation
+      ├── SHA-256 Hash Generation
       │
-      ▼
-Dependency Vulnerability Scan (OWASP Dependency-Check)
+      └── OWASP Dependency Vulnerability Scan
 ```
 
 ## Technologies Used
